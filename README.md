@@ -1,6 +1,6 @@
-# 03-Homework-JoseBurgos
+# Password Generator
 
-Here is a link to the webpage: https://joseburgos1993.github.io/03-Homework-JoseBurgos/Develop/
+Here is a link to the webpage: https://joseburgos1993.github.io/Password-Generator/Develop/
 In this folder there is an image named screenshot.png. That is a screenshot of my deployed webpage.
 
 I started by creating 4 strings that contained all possible characters for lowercase, uppercase, numerical, and special characters.
